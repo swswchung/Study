@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="W32Frame">
+</Property><Property Name="솔루션 파일" Value="C:\Users\BGIT\Desktop\10.27(맵확장)\10.27\W32Frame.sln">
+</Property><Property Name="사용자 옵션 파일" Value="C:\Users\BGIT\Desktop\10.27(맵확장)\10.27\W32Frame.suo">
+</Property><Property Name="Date" Value="2011년 10월 28일 금요일">
+</Property><Property Name="Time" Value="오전 10:56">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="W32Frame.sln" Description="파일을 C:\Users\BGIT\Desktop\10.27(맵확장)\10.27\W32Frame.sln.old(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="" Source="W32Frame.suo" Description="파일을 C:\Users\BGIT\Desktop\10.27(맵확장)\10.27\W32Frame.suo.old(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="W32Frame" Source="W32Frame.vcproj" Description="Converting project file 'C:\Users\BGIT\Desktop\10.27(맵확장)\10.27\W32Frame.vcproj'.">
+</Event><Event ErrorLevel="1" Project="W32Frame" Source="W32Frame.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="W32Frame" Source="W32Frame.vcproj" Description="Done converting to new project file 'C:\Users\BGIT\Desktop\10.27(맵확장)\10.27\W32Frame.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="W32Frame" Source="W32Frame.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="W32Frame.sln" Description="솔루션을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="" Source="W32Frame.sln" Description="Converted">
+</Event></UpgradeLog>

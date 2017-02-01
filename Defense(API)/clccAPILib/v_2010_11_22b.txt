@@ -1,0 +1,3 @@
+- 정비 버그 패치
+
+double buffering
